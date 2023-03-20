@@ -10,7 +10,7 @@ The project is currently in its first phase, where we are creating a command lin
 
 **Authors**
 - **Uchenna Emenike**, \<emmaxcom@yahoo.com>, @philipYoo10
-- **Bernard Oluwaremi**, \<emmaxcom@yahoo.com>, @maxi_musz
+- **Bernard Oluwaremi**, \<omayowagold@gmail.com>, @maxi_musz
 
 ----------------------------------------
 
